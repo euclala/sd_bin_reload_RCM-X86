@@ -1,4 +1,4 @@
-Thank you form @mattytrog form gbatemp.net . this project is base of SX gear and mattytrog's code.
+Thank you for  @mattytrog form gbatemp.net . this project is base of SX gear and mattytrog's code.
 
 # sd_bin_reload_RCM-X86  
  this is a project to reload any payload.bin form the SD card.
